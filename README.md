@@ -1,3 +1,4 @@
+#Meine Profile
 - 👋 Hi, I’m @GDSimpson3
 - 👀 I’m interested in react, next, ts, html, css, javascript, node, graphql, SQL and mongo DB.
 - 🌱 I’m currently learning what i am interested in, no, actualy i am learning mern stack and other full stack aplications.
