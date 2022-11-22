@@ -1,7 +1,7 @@
 #Meine Profile
 - 👋 Hi, I’m @GDSimpson3
-- 👀 I’m interested in react, next, ts, html, css, javascript, node, graphql, SQL and mongo DB.
-- 🌱 I’m currently learning what i am interested in.
+- 👀 I’m interested in react, next, ts, html, css, javascript, node, graphql, VBS, ShellScripts, Batch files, SQL and mongo DB.
+- 🌱 I’m currently learning Electron app work, Python, heroku deployment, npm package creating and more.
 - 📫 I am a part of the soon to come Wartburg enterprise
 
 <!---
