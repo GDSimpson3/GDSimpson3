@@ -1,8 +1,8 @@
 # Meine Profile,
 - 👋 Hi, I’m @GDSimpson3
 - 👀 I’m interested in react, next, ts, html, css, javascript, node, graphql, VBS, ShellScripts, Batch files, SQL and mongo DB.
-- 🌱 I’m currently learning Electron app work, Python, heroku deployment, npm package creating and more.
-- 📫 I am NOT contactable so don't try to send messenger pidgeons to my door because i have been getting a lot of crap mail.....
+- 🌱 I was learning Electron app work, Python, heroku deployment, npm package creating and more.
+- 📫 I am NOT contactable
 - I am capable of many things including full MERN stack projects
 - here is my website (yes, i have like 14 now....): https://ibz.vercel.app/
 <!---
