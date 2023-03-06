@@ -10,7 +10,9 @@ GDSimpson3/GDSimpson3 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![FullStack](https://img.shields.io/badge/FullStack-%2307405e.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![FullStack](https://img.shields.io/badge/FullStack-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 
 # Profile :
 ![](https://github-readme-stats.vercel.app/api?username=GDSimpson3&&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000)
