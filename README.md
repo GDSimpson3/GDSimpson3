@@ -9,6 +9,7 @@
 GDSimpson3/GDSimpson3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![FullStack](https://img.shields.io/badge/FullStack-%23ED8B00.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=GDSimpson3&&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000)
