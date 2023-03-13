@@ -1,10 +1,17 @@
 # Meine Profile,
-- 👋 Hi, I’m @GDSimpson3
-- 👀 I’m interested in react, next, ts, html, css, javascript, node, graphql, VBS, ShellScripts, Batch files, SQL and mongo DB.
-- 🌱 I was learning Electron app work, Python, heroku deployment, npm package creating and more.
-- 📫 I am NOT contactable
-- I am capable of many things including full MERN stack projects
-- here is my website (yes, i have like 14 now....): https://ibz.vercel.app/
+![ Hi, I’m @GDSimpson3](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![  I’m interested in react, next, ts, html, css, javascript, node, graphql, VBS, ShellScripts, Batch files, SQL and mongo DB.](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![I was learning Electron app work, Python, heroku deployment, npm package creating and more.](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![I am NOT contactable](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![ I am capable of many things including full MERN stack projects](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![here is my website (yes, i have like 14 now....): https://ibz.vercel.app/](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+
+<!-- - 👋 Hi, I’m @GDSimpson3 -->
+<!-- - 👀 I’m interested in react, next, ts, html, css, javascript, node, graphql, VBS, ShellScripts, Batch files, SQL and mongo DB. -->
+<!-- - 🌱 I was learning Electron app work, Python, heroku deployment, npm package creating and more. -->
+<!-- - 📫 I am NOT contactable -->
+<!-- - I am capable of many things including full MERN stack projects -->
+<!-- - here is my website (yes, i have like 14 now....): https://ibz.vercel.app/ -->
 <!---
 GDSimpson3/GDSimpson3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
