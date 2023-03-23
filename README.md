@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ![Windows 8](https://img.shields.io/badge/Windows8-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 
 # Profile :
-![](https://raw.githubusercontent.com/saltyshiomix/GDSimpson3/master/profile-summary-card-output/radical/0-profile-details.svg)
+![](https://raw.githubusercontent.com/GDSimpson3/GDSimpson3/master/profile-summary-card-output/radical/0-profile-details.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=GDSimpson3&&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000)
 
