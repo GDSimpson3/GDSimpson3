@@ -1,10 +1,9 @@
 # Meine Profile,
-![ Hi, I’m @GDSimpson3](https://img.shields.io/badge/kk-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![  I’m interested in react, next, ts, html, css, javascript, node, graphql, VBS, ShellScripts, Batch files, SQL and mongo DB.](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![I was learning Electron app work, Python, heroku deployment, npm package creating and more.](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![I am NOT contactable](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![ I am capable of many things including full MERN stack projects](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![here is my website (yes, i have like 14 now....): https://ibz.vercel.app/](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+- Hi, I’m Gavin
+- I was learning Electron app work, GraphQL, Docker.
+- I am NOT contactable
+- I am capable of many things including full MERN stack projects
+
 
 <!-- - 👋 Hi, I’m @GDSimpson3 -->
 <!-- - 👀 I’m interested in react, next, ts, html, css, javascript, node, graphql, VBS, ShellScripts, Batch files, SQL and mongo DB. -->
@@ -28,5 +27,7 @@ You can click the Preview link to take a look at your changes.
 ![Windows 8](https://img.shields.io/badge/Windows8-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 
 # Profile :
+![](https://raw.githubusercontent.com/saltyshiomix/GDSimpson3/master/profile-summary-card-output/radical/0-profile-details.svg)
+
 ![](https://github-readme-stats.vercel.app/api?username=GDSimpson3&&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000)
 
