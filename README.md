@@ -27,7 +27,12 @@ You can click the Preview link to take a look at your changes.
 ![Windows 8](https://img.shields.io/badge/Windows8-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 
 # Profile :
-![](https://raw.githubusercontent.com/GDSimpson3/GDSimpson3/master/profile-summary-card-output/radical/0-profile-details.svg)
-
+<!-- 
 ![](https://github-readme-stats.vercel.app/api?username=GDSimpson3&&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000)
+ -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GDSimpson3&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GDSimpson3&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GDSimpson3&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GDSimpson3&theme=nord_bright&utcOffset=8)
