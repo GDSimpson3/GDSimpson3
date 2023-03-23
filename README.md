@@ -1,5 +1,5 @@
 # Meine Profile,
-![ Hi, I’m @GDSimpson3](https://img.shields.io/badge/"Hi, I’m @GDSimpson3"-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![ Hi, I’m @GDSimpson3](https://img.shields.io/badge/kk-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 ![  I’m interested in react, next, ts, html, css, javascript, node, graphql, VBS, ShellScripts, Batch files, SQL and mongo DB.](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 ![I was learning Electron app work, Python, heroku deployment, npm package creating and more.](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 ![I am NOT contactable](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
