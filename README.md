@@ -31,8 +31,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=GDSimpson3&&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000)
  -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GDSimpson3&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GDSimpson3&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GDSimpson3&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GDSimpson3&theme=nord_bright&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GDSimpson3&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GDSimpson3&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GDSimpson3&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GDSimpson3&theme=city_lights&utcOffset=8)
