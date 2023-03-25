@@ -15,16 +15,6 @@
 GDSimpson3/GDSimpson3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Tech Stack :
-
-![FullStack](https://img.shields.io/badge/FullStack-%2307405e.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-%2307405e.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![Windows 8](https://img.shields.io/badge/Windows8-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 
 # Profile :
 <!-- 
@@ -36,3 +26,14 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GDSimpson3&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GDSimpson3&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GDSimpson3&theme=city_lights&utcOffset=8)
+
+# Tech Stack :
+
+![FullStack](https://img.shields.io/badge/FullStack-%2307405e.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-%2307405e.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![Windows 8](https://img.shields.io/badge/Windows8-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
