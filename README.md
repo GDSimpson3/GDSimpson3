@@ -22,8 +22,12 @@ You can click the Preview link to take a look at your changes.
  -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights)
+# Language Stats :
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GDSimpson3&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GDSimpson3&theme=city_lights)
+# Commit Stats :
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GDSimpson3&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GDSimpson3&theme=city_lights&utcOffset=8)
 
