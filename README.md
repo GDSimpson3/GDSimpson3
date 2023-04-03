@@ -1,8 +1,8 @@
 # Meine Profile,
 - Hi, I’m Gavin
-- I was learning Electron app work, GraphQL, Docker.
+- I was learning GraphQL, Docker, azure.
 - I am NOT contactable
-- I am capable of many things including full MERN stack projects
+- I am capable of many things, don't ask.
 
 
 <!-- - 👋 Hi, I’m @GDSimpson3 -->
