@@ -33,10 +33,10 @@ You can click the Preview link to take a look at your changes.
 
 # Tech Stack :
 
-![FullStack](https://img.shields.io/badge/FullStack-%2307405e.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
-![Windows 8](https://img.shields.io/badge/Windows8-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![](https://img.shields.io/badge/FullStack-%2307405e.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![](https://img.shields.io/badge/Azure-%23000000.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
+![](https://img.shields.io/badge/Windows8-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 
 # Terminal Pictures
 ![image](https://user-images.githubusercontent.com/103830594/229303114-0715b481-6a24-4abc-83eb-f9ae00dff1aa.png)
