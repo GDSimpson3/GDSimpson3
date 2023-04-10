@@ -1,3 +1,6 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights)
+
+
 # Meine Profile,
 - Hi, I’m Gavin
 - I was learning GraphQL, Docker, azure.
@@ -16,12 +19,11 @@ GDSimpson3/GDSimpson3 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# Profile Stats :
+<!-- # Profile Stats : -->
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=GDSimpson3&&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000)
  -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights)
 # Language Stats :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GDSimpson3&theme=city_lights)
