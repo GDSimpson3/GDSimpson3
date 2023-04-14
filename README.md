@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to my GitHub Profile.</h2>
+<h1 align="center">Welcome to my GitHub Profile.</h1>
 
 <p align='center'>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights">
