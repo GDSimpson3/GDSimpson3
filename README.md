@@ -1,6 +1,9 @@
 <h2 align="center">Welcome</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights)
+<p align='center'>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights">
+</p>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights) -->
 <!-- 
 # Meine Profile,
 - Hi, I’m Gavin
