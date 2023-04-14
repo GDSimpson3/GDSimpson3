@@ -42,9 +42,12 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Windows8-%23E34F26.svg?style=for-the-badge&logo=FullStack&logoColor=white)
 
 # Terminal Pictures -->
-![image](https://user-images.githubusercontent.com/103830594/229303114-0715b481-6a24-4abc-83eb-f9ae00dff1aa.png)
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/103830594/229303114-0715b481-6a24-4abc-83eb-f9ae00dff1aa.png">
+</p>
+<!-- ![image](https://user-images.githubusercontent.com/103830594/229303114-0715b481-6a24-4abc-83eb-f9ae00dff1aa.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/103830594/229303205-2eb4cf79-06a4-423d-bca4-deb3485cd2c2.png) -->
-![](https://komarev.com/ghpvc/?username=gdsimpson3&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=gdsimpson3&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen) -->
 <!-- 
 ----
 
