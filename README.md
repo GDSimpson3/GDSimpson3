@@ -45,8 +45,6 @@ You can click the Preview link to take a look at your changes.
 ![image](https://user-images.githubusercontent.com/103830594/229303114-0715b481-6a24-4abc-83eb-f9ae00dff1aa.png)
 <!-- ![image](https://user-images.githubusercontent.com/103830594/229303205-2eb4cf79-06a4-423d-bca4-deb3485cd2c2.png) -->
 ![](https://komarev.com/ghpvc/?username=gdsimpson3&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
-<img src="https://picsum.photos/100/100](https://komarev.com/ghpvc/?username=gdsimpson3&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" >
-
 <!-- 
 ----
 
