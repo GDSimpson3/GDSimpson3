@@ -58,11 +58,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://visitor-badge.glitch.me/badge?page_id=KarimX32" alt="visitor badge"/>
 </p>
  -->
-<!--  My github: @GDSimpson3
 
-Sisters github: @Jgsimpon15 
-
-Alt: @Tepid-neitzen  -->
 
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=gdsimpson3&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
