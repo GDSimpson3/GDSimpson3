@@ -2,9 +2,10 @@
 <!-- <h8>i love my mum</h8> -->
 
 
-https://github.com/GDSimpson3/GDSimpson3/assets/103830594/88f67cdf-9bfe-44fe-9a0c-5ab1186687d6
 
-
+<p align="center">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+</p>
 
 
 <p align='center'>
