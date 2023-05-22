@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile.</h1>
 <!-- <h8>i love my mum</h8> -->
 <img src="https://tenor.com/en-GB/view/bertholdt-aot-gif-22242089">
+![bertholdt-aot](https://github.com/GDSimpson3/GDSimpson3/assets/103830594/e1cc48fc-5bcb-4940-bcef-60747b1bc53b)
 
 <p align='center'>
 
