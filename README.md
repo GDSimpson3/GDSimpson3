@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile.</h1>
 <!-- <h8>i love my mum</h8> -->
 <div class="tenor-gif-embed" data-postid="22242089" align='center' data-share-method="host" data-aspect-ratio="1.56863" data-width="100%"><a href="https://tenor.com/view/bertholdt-aot-gif-22242089">Bertholdt Aot GIF</a>from <a href="https://tenor.com/search/bertholdt-gifs">Bertholdt GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <p align='center'>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=dark">
 </p>
