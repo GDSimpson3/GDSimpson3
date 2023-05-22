@@ -1,11 +1,10 @@
 <h1 align="center">Welcome to my GitHub Profile.</h1>
 <!-- <h8>i love my mum</h8> -->
-<img src="https://tenor.com/en-GB/view/bertholdt-aot-gif-22242089">
 ![bertholdt-aot](https://github.com/GDSimpson3/GDSimpson3/assets/103830594/e1cc48fc-5bcb-4940-bcef-60747b1bc53b)
 
+https://github-production-user-asset-6210df.s3.amazonaws.com/103830594/239941132-e1cc48fc-5bcb-4940-bcef-60747b1bc53b.gif
 <p align='center'>
 
-https://github.com/GDSimpson3/GDSimpson3/assets/103830594/2d0e8dc4-0bc8-4882-8fcd-2d5f959aaa96
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=dark">
