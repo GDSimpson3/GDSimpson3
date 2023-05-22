@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my GitHub Profile.</h1>
 <!-- <h8>i love my mum</h8> -->
+![image](https://github.com/GDSimpson3/GDSimpson3/assets/103830594/ceb707ae-e771-4769-b383-4a462c093753)
 
 
 https://media.tenor.com/MCijVyhTNvYAAAAd/mike-zacharias-sniff-sniff.gif
