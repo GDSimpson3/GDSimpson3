@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile.</h1>
 <!-- <h8>i love my mum</h8> -->
-https://tenor.com/en-GB/view/bertholdt-aot-gif-22242089
+<img src="https://tenor.com/en-GB/view/bertholdt-aot-gif-22242089">
+
 <p align='center'>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=dark">
 </p>
