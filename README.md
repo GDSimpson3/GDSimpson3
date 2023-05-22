@@ -1,9 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile.</h1>
 <!-- <h8>i love my mum</h8> -->
-![image](https://github.com/GDSimpson3/GDSimpson3/assets/103830594/ceb707ae-e771-4769-b383-4a462c093753)
 
-
-https://media.tenor.com/MCijVyhTNvYAAAAd/mike-zacharias-sniff-sniff.gif
+<div class="tenor-gif-embed" data-postid="8944300" data-share-method="host" data-aspect-ratio="1.77632" data-width="100%"><a href="https://tenor.com/view/mike-zacharias-sniff-sniff-3d-maneuver-gear-attack-on-titan-anime-gif-8944300">Mike Zacharias Sniff Sniff GIF</a>from <a href="https://tenor.com/search/mike+zacharias-gifs">Mike Zacharias GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align='center'>
 
