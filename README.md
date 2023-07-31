@@ -1,7 +1,6 @@
 <!-- <h1 align="center">Welcome to my GitHub Profile.</h1> -->
 <h1 align="center">Добро пожаловать :</h1>
 <!-- <h8>i love my mum</h8> -->
-<a rel="me" href="https://nerdculture.de/@gdsimpson3">Mastodon</a>
 
 
 
