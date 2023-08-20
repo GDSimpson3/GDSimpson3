@@ -11,6 +11,7 @@
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gdsimpson3&theme=highcontrast">
 </p>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights) -->
 <!-- 
