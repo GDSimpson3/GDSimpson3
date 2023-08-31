@@ -90,4 +90,8 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=gdsimpson3&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </p>
-
+<a href="https://github.com/GDSimpson3" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/103830594?v=4" alt="gdsimpson" width="40" height="40"/> </a>
+<a href="https://github.com/BSW-G-D-iph6" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132499310?v=4" alt="BSW" width="40" height="40"/> </a>
+<a href="https://github.com/Tepid-neitzen" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/129894851?v=4" alt="TN" width="40" height="40"/> </a>
+<a href="https://github.com/TTaksheel" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132825646?v=4" alt="TTK" width="40" height="40"/> </a>
+<a href="https://github.com/Jgsimpon15" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/117312936?v=4" alt="JS" width="40" height="40"/> </a>
