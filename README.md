@@ -15,12 +15,6 @@
 </p>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GDSimpson3&theme=city_lights) -->
 <!-- 
-# Meine Profile,
-- Hi, I’m Gavin
-- I was learning GraphQL, Docker, azure.
-- I am NOT contactable
-- I am capable of many things, don't ask.
- -->
 
 <!-- - 👋 Hi, I’m @GDSimpson3 -->
 <!-- - 👀 I’m interested in react, next, ts, html, css, javascript, node, graphql, VBS, ShellScripts, Batch files, SQL and mongo DB. -->
