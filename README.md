@@ -92,7 +92,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUyNTIyOGNmNGJiZTM5ZjEyMTI5M2EzN2EzMWRkMTkzNDk1YWE5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/E1uxqv33FmpQE0UlaZ/giphy.gif">
  <img width="805" alt="akazanXrengokuONE" src="https://github.com/GDSimpson3/GDSimpson3/assets/103830594/5690ffe4-eafb-4f4d-a227-616cbb92b8d5">
- 
+ <br/>
+ <img width="200" alt="akazanXrengokuONE" src="https://github.com/GDSimpson3/GDSimpson3/assets/103830594/d60ec092-dfa4-4d4f-92e2-9e56e14fa3f5">
+
 </p>
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 <p align='center'>
