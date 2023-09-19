@@ -92,11 +92,11 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUyNTIyOGNmNGJiZTM5ZjEyMTI5M2EzN2EzMWRkMTkzNDk1YWE5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/E1uxqv33FmpQE0UlaZ/giphy.gif">
 </p>
-<h3 align="center">About me :</h3>
+<!-- <h3 align="center">About me :</h3>
 <h6 align="center">
  I am a 10th grader working to be an Accountant, Physicist, Chemist, Economist and Engineer, yes... GCSE's really wants to give us a GREAT taste of possiblly our future 9/5 job, but at least i can say, "in github and gitee, i am a programmer 👍"
 </h6>
-
+ -->
 <p align="center">
  <img width="805" alt="akazanXrengokuONE" src="https://github.com/GDSimpson3/GDSimpson3/assets/103830594/5690ffe4-eafb-4f4d-a227-616cbb92b8d5">
  <br/>
