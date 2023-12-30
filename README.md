@@ -3,9 +3,9 @@
 <!-- <h8>i love my mum</h8> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src= "https://github.com/GDSimpson3/GDSimpson3/assets/103830594/3d119bd0-7e2a-4800-91bf-be541c25dec6">
-</p>
+</p> -->
 
 
 <p align='center'>
