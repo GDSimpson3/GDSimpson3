@@ -70,10 +70,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="center">Languages and Tools: </h3>
+<h3 align="center">Languages, Projects and Tools: </h3>
 
 <p align="center">
- <img width="200" alt="akazanXrengokuONE" src="https://github.com/GDSimpson3/GDSimpson3/assets/103830594/d60ec092-dfa4-4d4f-92e2-9e56e14fa3f5">
+<!--  <img width="200" alt="akazanXrengokuONE" src="https://github.com/GDSimpson3/GDSimpson3/assets/103830594/d60ec092-dfa4-4d4f-92e2-9e56e14fa3f5"> -->
+  
+
 </p>
 
 <p align="center">
@@ -83,10 +85,10 @@ You can click the Preview link to take a look at your changes.
 
  
 <h3 align="center">Next Steps: (Umstellung auf künstliche Intelligenz)</h3>
-<p align="center">
+<!-- <p align="center">
  <img width="400" alt="akazanXrengokuONE" src="https://github.com/GDSimpson3/GDSimpson3/assets/103830594/5690ffe4-eafb-4f4d-a227-616cbb92b8d5">
 
-</p>
+</p> -->
 <p align="center"> 
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
@@ -102,20 +104,34 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<!-- <h3 align="center">A gif :</h3> -->
-<p align="center">
-  <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUyNTIyOGNmNGJiZTM5ZjEyMTI5M2EzN2EzMWRkMTkzNDk1YWE5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/E1uxqv33FmpQE0UlaZ/giphy.gif">
-</p>
+
 
 <p align="center">
 <!--  <img width="400" alt="akazanXrengokuONE" src="https://github.com/GDSimpson3/GDSimpson3/assets/103830594/5690ffe4-eafb-4f4d-a227-616cbb92b8d5"> -->
- <br/>
+<!--  <br/> -->
 <!--  <img width="200" alt="akazanXrengokuONE" src="https://github.com/GDSimpson3/GDSimpson3/assets/103830594/d60ec092-dfa4-4d4f-92e2-9e56e14fa3f5"> -->
 
 </p>
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=gdsimpson3&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+
+| Project Name  | Link | About |
+| ------------- | ------------- | ------------- |
+| Website  | [https://gdsimpson3.vercel.app/](https://gdsimpson3.vercel.app/)  | Fun NextJS site  |
+| EntityToCode.JS  | [https://www.npmjs.com/package/entitytocode](https://www.npmjs.com/package/entitytocode)  | Node Library for mathmatical tools backed with a c++ engine (node-gyp)  |
+| EntityToCode.py  | [https://pypi.org/project/entitytocodepy-official/](https://pypi.org/project/entitytocodepy-official/)  | Python Library for various tools backed with a c++ engine (pybind11)  |
+| Blogger  | [https://medium.com/@gdsimpson3](https://medium.com/@gdsimpson3)  | Medium Doc (singular) On Bootable drives  |
+| Vlogger  | [https://www.youtube.com/@gdsimpson](https://www.youtube.com/@gdsimpson)  | Youtube Tutorial (singular) On Vencord theming |
+| MathToCode.vercel  | [https://mathtocodegds.vercel.app/](https://mathtocodegds.vercel.app/)  | React.JS site with Mathematical Tools  |
+| Acropolis  | [https://fevid.vercel.app/](https://fevid.vercel.app)  | NextJS sites made for clients in the summmer of 23 (CLOSED)  |
+| IBZ  | [https://ibz.vercel.app/EN](https://ibz.vercel.app/EN)  | React.JS site with productions made in the late winter of 22  |
+| SHF  | [https://rausnichts.vercel.app/](https://rausnichts.vercel.app/)  | Discord Bots called Raus Nichs.JS (discord.JS), Mankey.CS (DSharp) and Omanyte.cc (D++)  |
+
+
+
+<!-- <h3 align="center">A gif :</h3> -->
+<p align="center">
+  <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUyNTIyOGNmNGJiZTM5ZjEyMTI5M2EzN2EzMWRkMTkzNDk1YWE5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/E1uxqv33FmpQE0UlaZ/giphy.gif">
 </p>
 <a href="https://github.com/GDSimpson3" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/103830594?v=4" alt="gdsimpson" width="40" height="40"/> </a>
 <a href="https://github.com/BSW-G-D-iph6" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132499310?v=4" alt="BSW" width="40" height="40"/> </a>
@@ -123,3 +139,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/TTaksheel" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132825646?v=4" alt="TTK" width="40" height="40"/> </a>
 <a href="https://github.com/Jgsimpon15" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/117312936?v=4" alt="JS" width="40" height="40"/> </a>
 <a href="https://github.com/Jgsimpson15" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/147947456?v=4" alt="JSN" width="40" height="40"/> </a>
+
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=gdsimpson3&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</p>
