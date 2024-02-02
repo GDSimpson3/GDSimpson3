@@ -123,9 +123,11 @@ You can click the Preview link to take a look at your changes.
 | Blogger  | [https://medium.com/@gdsimpson3](https://medium.com/@gdsimpson3)  | Medium Doc (singular) On Bootable drives  |
 | Vlogger  | [https://www.youtube.com/@gdsimpson](https://www.youtube.com/@gdsimpson)  | Youtube Tutorial (singular) On Vencord theming |
 | MathToCode.vercel  | [https://mathtocodegds.vercel.app/](https://mathtocodegds.vercel.app/)  | React.JS site with Mathematical Tools  |
+| SHF  | [https://rausnichts.vercel.app/](https://rausnichts.vercel.app/)  | Discord Bots called Raus Nichs.JS (discord.JS), Mankey.CS (DSharp) and Omanyte.cc (D++)  |
 | Acropolis  | [https://fevid.vercel.app/](https://fevid.vercel.app)  | NextJS sites made for clients in the summmer of 23 (CLOSED)  |
 | IBZ  | [https://ibz.vercel.app/EN](https://ibz.vercel.app/EN)  | React.JS site with productions made in the late winter of 22  |
-| SHF  | [https://rausnichts.vercel.app/](https://rausnichts.vercel.app/)  | Discord Bots called Raus Nichs.JS (discord.JS), Mankey.CS (DSharp) and Omanyte.cc (D++)  |
+| IBZ Apps  | [https://ibz-apps.vercel.app/](https://ibz-apps.vercel.app/)  | Swift and NEXTRON apps made in the fall of 22 |
+
 
 
 
