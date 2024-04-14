@@ -118,6 +118,8 @@ You can click the Preview link to take a look at your changes.
 | Project Name  | Link | About |
 | ------------- | ------------- | ------------- |
 | Website  | [https://gdsimpson3.vercel.app/](https://gdsimpson3.vercel.app/)  | Fun NextJS site  |
+| Circuit Drone  | [https://circuit-drone.vercel.app/](https://circuit-drone.vercel.app/)  | Enterprise  |
+| TraumBot  | [https://traum-doc.vercel.app/](https://traum-doc.vercel.app/)  | Discord Bots called Traum.JS (discord.JS)  |
 | EntityToCode.JS  | [https://www.npmjs.com/package/entitytocode](https://www.npmjs.com/package/entitytocode)  | Node Library for mathmatical tools backed with a c++ engine (node-gyp)  |
 | EntityToCode.py  | [https://pypi.org/project/entitytocodepy-official/](https://pypi.org/project/entitytocodepy-official/)  | Python Library for various tools backed with a c++ engine (pybind11)  |
 | Blogger  | [https://medium.com/@gdsimpson3](https://medium.com/@gdsimpson3)  | Medium Doc (singular) On Bootable drives  |
