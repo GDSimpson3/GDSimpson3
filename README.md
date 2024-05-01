@@ -94,7 +94,7 @@ public class Main {
         myObj.country = "United Kingdom";
         String[] list = { "Javascript, Next.JS, React.JS, Nest.JS", "Java, Spring, LibGdx", "Python, Django, Numpy, ML", "Groovy","C++, Node-gyp, Pybind11, Cmake","R","C, Cmake, Meson","C#, MAUI, Console app, WEB","Lua, NVCHAD" };
         myObj.languages = list;
-        String[] ops = { "Vercel, Webapps","Render, Webapps, Services", "Railway.up, Webapps","Docker, Helm, K8s (GCP)","Jenkins, Brew, Docker","Ubuntu, 20.04, 18.10, Kali, OpenSUSE, RHAT, AntiX, Ubuntu Server 15.04,","DB, MongoDB, Mysql, Mysql Docker","Bash, VB, Shell"};
+        String[] ops = { "Vercel, Webapps","Render, Webapps, Services", "Railway.up, Webapps","Docker, Helm, K8s (GCP)","Jenkins, Brew, Docker","Ubuntu, 20.04, 18.10, Kali, OpenSUSE, RHAT, AntiX, Ubuntu Server 15.04,","DB, MongoDB, Mysql, Mysql Docker","Bash, VB, Shell","GCP, K8s","Azure, AD"};
         myObj.ops = ops;
         System.out.println(toString(myObj));
     }
