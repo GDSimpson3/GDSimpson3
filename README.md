@@ -88,7 +88,7 @@ public class Main {
 <a href="https://github.com/Tepid-neitzen" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/129894851?v=4" alt="TN" width="40" height="40"/> </a>
 <a href="https://github.com/TTaksheel" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132825646?v=4" alt="TTK" width="40" height="40"/> </a>
 <a href="https://github.com/Jgsimpon15" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/117312936?v=4" alt="JS" width="40" height="40"/> </a>
-<a href="https://github.com/Jgsimpson15" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/147947456?v=4" alt="JSN" width="40" height="40"/> </a>
+<a href="https://github.com/Jgsimpgjgson15" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/147947456?v=4" alt="JSN"/> </a>
 
 
 <p align='center'>
