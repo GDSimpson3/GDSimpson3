@@ -63,7 +63,7 @@ public class Main {
 
 | Project Name  | Link | About |
 | ------------- | ------------- | ------------- |
-| PPZ  | [https://devpost.com/software/ppz](https://devpost.com/software/ppz)  | Shopping e-commerce application in typescript with Redux and Java Springboot that communicate VIA Graphql stored with MONGODB  |
+| PPZ (hackathon winner) | [https://devpost.com/software/ppz](https://devpost.com/software/ppz)  | Shopping e-commerce application in typescript with Redux and Java Springboot that communicate VIA Graphql stored with MONGODB  |
 | Website  | [https://gdsimpson3.vercel.app/](https://gdsimpson3.vercel.app/)  | Fun NextJS site  |
 | Circuit Drone  | [https://circuit-drone.vercel.app/](https://circuit-drone.vercel.app/)  | Enterprise  |
 | TraumBot  | [https://traum-doc.vercel.app/](https://traum-doc.vercel.app/)  | Discord Bots called Traum.JS (discord.JS)  |
