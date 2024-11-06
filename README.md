@@ -1,6 +1,8 @@
 <h1 align="center">Добро пожаловать :</h1>
 <!-- <h8>i love my mum</h8> -->
 
+<h2 align="center"><i>"A single moment of weakness can lead to a lifetime of regrets" ~ Kokushibo</i></h2>
+
 
 <p align='center'>
 
