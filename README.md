@@ -35,6 +35,13 @@
     - Most Creative Hack
 
 
+### Side hustles
+
+1  🎸 GDS.6591
+	- [Link](https://gds6591.carrd.co)
+    - Musician Profile
+
+
 
 ---
 
