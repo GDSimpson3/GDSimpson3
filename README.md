@@ -42,6 +42,10 @@
     - Musician Profile
 
 
+2  🎧 Study Together
+	- [Link](https://app.studytogether.com/users/6750bab5ede5e1c778c0f1b9)
+    - Main hustle lol....
+
 
 ---
 
