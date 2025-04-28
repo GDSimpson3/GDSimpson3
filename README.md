@@ -69,9 +69,29 @@ public class Main {
 | ------------- | ------------- | ------------- | ------------- |
 | 🏆 Winner - Most Creative hack | PPZ | [https://devpost.com/software/ppz](https://devpost.com/software/ppz)  | Shopping e-commerce application in typescript with Redux and Java Springboot that communicate VIA Graphql stored with MONGODB  |
 
+<h3 align='center'>Projects (2025)</h3>
 
-<h3 align='center'>Projects</h3>
 
+
+<h3 align='center'>Projects (2024)</h3>
+
+
+| Project Name  | Link | About |
+| ------------- | ------------- | ------------- |
+| OTNEWS  | [https://otnews.vercel.app/](https://otnews.vercel.app/)  | News site  |
+| CZR Elearner  | [https://czr-docker.vercel.app/](https://czr-docker.vercel.app/)  | Full docker Course  |
+| CZR  | [https://coderzrepublic.vercel.app/](https://coderzrepublic.vercel.app/)  | Tech Institute  |
+| Blogger  | [https://gdsimpsonblog.vercel.app/](https://gdsimpsonblog.vercel.app/)  | Multiple Articles |
+| Vlogger  | [https://www.youtube.com/@gdsimpson](https://www.youtube.com/@gdsimpson)  | Multiple Videos |
+| MWA  | [https://meshworkanalysis.carrd.co/](https://meshworkanalysis.carrd.co/)  | Finance Project  |
+| GVVIN Agency  | [https://gvvinagency.vercel.app/en](https://gvvinagency.vercel.app/en)  | Marketing agency  |
+| HKY Soundworks  | [N/a]()  | Amature Music  |
+| PPZ | [https://devpost.com/software/ppz](https://devpost.com/software/ppz)  | Shopping e-commerce application in typescript with Redux and Java Springboot that communicate VIA Graphql stored with MONGODB  |
+
+
+
+
+<h3 align='center'>Projects (2023)</h3>
 
 | Project Name  | Link | About |
 | ------------- | ------------- | ------------- |
@@ -80,12 +100,19 @@ public class Main {
 | TraumBot  | [https://traum-doc.vercel.app/](https://traum-doc.vercel.app/)  | Discord Bots called Traum.JS (discord.JS)  |
 | EntityToCode.JS  | [https://www.npmjs.com/package/entitytocode](https://www.npmjs.com/package/entitytocode)  | Node Library for mathmatical tools backed with a c++ engine (node-gyp)  |
 | EntityToCode.py  | [https://pypi.org/project/entitytocodepy-official/](https://pypi.org/project/entitytocodepy-official/)  | Python Library for various tools backed with a c++ engine (pybind11)  |
-| Blogger  | [https://medium.com/@gdsimpson3](https://medium.com/@gdsimpson3)  | Medium Doc (singular) On Bootable drives  |
-| Vlogger  | [https://www.youtube.com/@gdsimpson](https://www.youtube.com/@gdsimpson)  | Youtube Tutorial (singular) On Vencord theming |
 | MathToCode.vercel  | [https://mathtocodegds.vercel.app/](https://mathtocodegds.vercel.app/)  | React.JS site with Mathematical Tools  |
 | YourSiete | [N/A](https://gdsimpson3.vercel.app/)  | Nest.JS, GraphQL, Next.JS 12/TS and MongoDB Fullstack  |
+| MCC  | [N/a]()  | Decentralised Chat application |
 | SHF  | [https://rausnichts.vercel.app/](https://rausnichts.vercel.app/)  | Discord Bots called Raus Nichs.JS (discord.JS), Mankey.CS (DSharp) and Omanyte.cc (D++)  |
 | Acropolis  | [https://fevid.vercel.app/](https://fevid.vercel.app)  | NextJS sites made for clients in the summmer of 23 (CLOSED)  |
+
+
+<h3 align='center'>Projects (2022)</h3>
+
+
+| Project Name  | Link | About |
+| ------------- | ------------- | ------------- |
+| Personal Projects  | [https://github.com/GDSimpson3/Personal-Projects_Personlich-Projekte](https://github.com/GDSimpson3/Personal-Projects_Personlich-Projekte)  | Meine projekte, my projects |
 | IBZ  | [https://ibz.vercel.app/EN](https://ibz.vercel.app/EN)  | React.JS site with productions made in the late winter of 22  |
 | IBZ Apps  | [https://ibz-apps.vercel.app/](https://ibz-apps.vercel.app/)  | Swift and NEXTRON apps made in the fall of 22 |
 
