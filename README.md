@@ -71,7 +71,16 @@ public class Main {
 
 <h3 align='center'>Projects (2025)</h3>
 
-
+| Project Name  | Link | About |
+| ------------- | ------------- | ------------- |
+| Portfolio  | [https://gavinsimpson.vercel.app/](https://gavinsimpson.vercel.app/)  | Portfolio |
+| Blogsite  | [https://gdsimpsonblog.vercel.app/](https://gdsimpsonblog.vercel.app/)  | Portfolio |
+| Statistics  | N/A  | AS level Statistics Implemented in Jupyter Notebooks (with Python, MatplotLib, Numpy) |
+| Financial Markets  | N/A  | Yale Course |
+| Acedemia  | N/A  | AS/A2 |
+| Acedemia  | N/A  | GCSEs |
+| WL01 | N/A  | FTSE500 Based Stock Portfolio - Biotech/Pharma & Industrial Engineering |
+| WL02 | N/A  | Nasdaq Based Stock Portfolio - Semiconductors & Retail |
 
 <h3 align='center'>Projects (2024)</h3>
 
