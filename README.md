@@ -128,9 +128,7 @@ public class Main {
 </p>
 <a href="https://github.com/GDSimpson3" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/103830594?v=4" alt="gdsimpson" width="40" height="40"/> </a>
 <a href="https://github.com/BSW-G-D-iph6" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132499310?v=4" alt="BSW" width="40" height="40"/> </a>
-<a href="https://github.com/Tepid-neitzen" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/129894851?v=4" alt="TN" width="40" height="40"/> </a>
-<a href="https://github.com/TTaksheel" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132825646?v=4" alt="TTK" width="40" height="40"/> </a>
-<a href="https://github.com/Jgsimpon15" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/117312936?v=4" alt="JS" width="40" height="40"/> </a>
+<a href="https://github.com/gdsimpson" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/215128467?v=4" alt="Finance" width="40" height="40"/> </a>
 <a href="https://github.com/Jgsimpgjgson15" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/147947456?v=4" alt="JSN"/> </a>
 
 
